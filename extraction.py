@@ -1,3 +1,4 @@
+
 import re
 import os
 from pymetamap import MetaMap
@@ -43,4 +44,6 @@ for file in os.listdir(location):
             ## can comment print(line) out if you do not wish to print the positive lines out
             print (line)
             print("UMLS: ", out)
-            print("----------------------------------")
+            print("---------------------------------------")
+            
+            
