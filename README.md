@@ -22,7 +22,7 @@ Requirements include:
   
 Please install the UMLS metathesaurus via the MetamorphoSys tool. Then install QuickUMLS, following the instructions closely and using the UMLS metathesaurus installation and destination paths. Then change the script to reflect the destination path. Move all text files into the same QuickUMLS file. After running, the script will output each text file name (in this use case the patient ID), each line that has non-negated UMLS terms and the UMLS information including CUI and description.
 
-Please see the paper for more details.
+Please see the paper for more details. https://github.com/MadisonJMyers/UCSF-UMLS-Extraction/blob/master/ExtractingPatientIdentification.pdf
 
 This script is a part of a short bioinformatics joint project with the Institute for Computational Health Sciences and the Baranzini Lab, UCSF.
 
